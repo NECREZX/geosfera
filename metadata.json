@@ -1,0 +1,6 @@
+{
+  "name": "Geosfera BMKG — Sistem Informasi Geografis Gempa Indonesia",
+  "description": "Sistem informasi geografis pemantauan gempa bumi, analisis seismik, wilayah rawan, potensi tsunami, dan mitigasi bencana secara real-time berbasis data resmi BMKG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
